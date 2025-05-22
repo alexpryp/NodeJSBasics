@@ -1,5 +1,5 @@
 const os = require('os');
-const {userName: user, sayHi} = require('./test');
+const {userName: user, sayHi} = require('../test/test.js');
 
 const name = 'Tommy';
 
