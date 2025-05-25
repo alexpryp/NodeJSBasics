@@ -8,6 +8,7 @@
     "starttest": "node ./src/lessonsWebDev/test/test.js",
     "startmodules": "node ./src/lessonsWebDev/modules/modules.js",
     "startapp": "node ./src/lessonsWebDev/app/app.js",
+    "starteventsWebDev": "node ./src/lessonsWebDev/events/app.js",
     "startnodemon": "nodemon index.js",
     "startlessons": "cross-env PORT=5000 NODE_ENV=production node ./src/lessons/process.js",
     "startprocess": "node ./src/lessons/process.js",
