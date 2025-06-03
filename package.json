@@ -10,6 +10,7 @@
     "startapp": "node ./src/lessonsWebDev/app/app.js",
     "starteventsWebDev": "node ./src/lessonsWebDev/events/app.js",
     "startstreamWebDev": "node ./src/lessonsWebDev/streams/app.js",
+    "startserver": "node ./src/lessonsWebDev/server/app.js",
     "startnodemon": "nodemon index.js",
     "startlessons": "cross-env PORT=5000 NODE_ENV=production node ./src/lessons/process.js",
     "startprocess": "node ./src/lessons/process.js",
