@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node ./index.js",
     "starttest": "node ./src/lessonsWebDev/test/test.js",
+    "startglobal": "node ./src/lessonsWebDev/global/global.js",
     "startmodules": "node ./src/lessonsWebDev/modules/modules.js",
     "startapp": "node ./src/lessonsWebDev/app/app.js",
     "starteventsWebDev": "node ./src/lessonsWebDev/events/app.js",
